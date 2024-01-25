@@ -1,0 +1,6 @@
+ metering-label-rule-id,statusCode,scenario
+1,204,204 response
+2,204,204 response
+3,204,204 response
+4,204,204 response
+5,204,204 response
