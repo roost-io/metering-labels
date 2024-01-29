@@ -1,0 +1,11 @@
+metering-label-rule-id,statusCode,scenario
+9536641a-7d14-4dc5-afaf-93a973ce0eb8,200,200 response
+98a6345b-a4cf-444b-a065-8f676a7653d6,404,404 error
+364dda8a-9ed5-4364-8596-23fdb5d6e8a7,200,200 response
+d9339ea6-2ad8-4084-bfe6-e9879d8c7c6a,500,500 server error
+f1f5a0f5-8d00-43fd-897e-4468b1e7cb7b,200,200 response
+908e6ee8-74cb-4626-be71-b27a3bd1e4b1,403,403 forbidden
+7b2f5cde-b047-4647-b363-778022d3fc95,200,200 response
+60318fa5-3b11-42c2-bc2f-8dc58f4d82a8,400,400 bad request
+5f23b6c8-c3e7-41ba-be94-2a719874a3b0,200,200 response
+a8f2c31d-1623-4f6d-a7d8-85e3a8bcfe76,401,401 unauthorized
