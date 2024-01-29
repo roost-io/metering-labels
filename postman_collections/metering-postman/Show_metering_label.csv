@@ -1,0 +1,10 @@
+metering_label_id,statusCode,scenario
+a6700594-5b7a-4105-8bfe-723b346ce866,200,200 response
+ab254986-afc6-452b-a276-f45dc7d9c983,202,200 response
+fd643660-4c5c-463f-a9f8-6f827dba2f67,204,200 response
+da154b98-2a57-4dd1-b650-7bb275fc9c53,206,200 response
+c3561c86-0db5-47d2-a0c2-6befa5817f92,208,200 response
+aa974a77-0c81-4a21-95db-fbb8a56ab0f9,210,200 response
+1354fd72-bc8e-4b9e-9dbd-7ee68d3317fd,299,200 response
+3f53b571-33dd-4c6c-8dfa-af7907c9e630,403,200 response
+dbaccoma-b1cd-42c6-97ad-ff34ecc524e1,404,200 response
