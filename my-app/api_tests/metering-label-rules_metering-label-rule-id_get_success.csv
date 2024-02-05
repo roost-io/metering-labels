@@ -1,0 +1,11 @@
+id,metering_label_id,direction,remote_ip_prefix,excluded
+9536641a-7d14-4dc5-afaf-93a973ce0eb8,e131d186-b02d-4c0b-83d5-0c0725c4f812,ingress,20.0.0.0/24,false
+6d74e882-bf93-4653-8e65-7f4dda2a71ff,a6f64839-6a14-4cd4-ad51-f9a5b4a723f1,egress,30.0.0.0/24,true
+ac257327-5de4-4c5f-8f00-a7e7e142ce5f,c7abddf2-068a-4723-9797-78652bea46d2,ingress,40.0.0.0/24,false
+8b3f6b8a-24ca-4d26-98ee-1b64abf7cf09,216d8534-6470-4be1-9985-b3ee7a27da95,egress,50.0.0.0/24,true
+193182ab-8b04-435e-bc30-ceaefed7c4ff,4f657e6e-b00e-4ff0-9b00-b0d9eceedd24,ingress,60.0.0.0/24,false
+b72472b8-7db5-4730-896f-abbf92408e06,aef7e9a4-970f-4bd3-826b-8dda7478fcdc,egress,70.0.0.0/24,true
+c9fe356d-a8a5-4e36-9111-ee00a1950bc3,66bd093a-a5a1-4333-ba49-1695b8d7d245,ingress,80.0.0.0/24,false
+842241e1-7358-4f1e-8e68-ba8699e44698,71029844-274c-4ef2-b216-6aa121f5e50c,egress,90.0.0.0/24,true
+26d7807b-aef1-4bd7-9f44-7eada6ed7321,7878a4bd-34ea-47e8-b57b-7cb9f8f6cf81,ingress,100.0.0.0/24,false
+d0cfc2f9-8edd-4b3e-8f72-7a56d266a5f0,b2f86366-7c72-4d80-bc6f-c879f8b6cfb2,egress,110.0.0.0/24,true

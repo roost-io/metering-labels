@@ -1,0 +1,11 @@
+metering_label_id,statusCode
+12345,ok
+56789,error
+21354,ok
+86579,ok
+36521,warning
+68901,error
+12436,ok
+89674,unavailable
+23765,warning
+56849,unavailable
