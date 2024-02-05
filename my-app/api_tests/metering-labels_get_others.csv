@@ -1,0 +1,11 @@
+field1,field2,field3
+123,abc,true
+456,def,false
+789,ghi,true
+101112,jkl,False
+131415,mno,true
+161718,pqr,false
+192021,stuv,True
+222324,wxyz,FALSE
+252627,cba,true
+282930,edf,False

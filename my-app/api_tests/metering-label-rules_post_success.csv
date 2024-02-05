@@ -1,0 +1,11 @@
+remote_ip_prefix,direction,metering_label_id,id,excluded
+10.0.1.0/24,ingress,e131d186-b02d-4c0b-83d5-0c0725c4f812,00e13b58-b4f2-4579-9c9c-7ac94615f9ae,false
+10.0.1.1/24,egress,e731a187-b12c-4b0c-93d4-1c0825c3f712,11f23c59-b5g3-4680-9d9d-8bd94716faeb,true
+10.0.1.2/24,ingress,f141b188-c22d-4a0c-a3d5-2c0926c4g822,22g34d60-b6h4-4791-a9a9-9cd05817gbfc,false
+10.0.1.3/24,egress,g251c189-d32e-4b0d-b4d6-3c0107c5h932,33h45e71-b7i5-4802-bab0-adc16918hcgd,true
+10.0.1.4/24,ingress,h361d190-e42f-4c0e-c5d7-4c0218c6i042,44i56f82-b8j6-4913-aca1-bdd27019idhe,false
+10.0.1.5/24,egress,i471e191-f52g-4d0f-d6d8-5d0329c7j052,55j67g93-b9k7-5024-bbc2-cde3811ajefi,true
+10.0.1.6/24,ingress,j581f192-g62h-4e0g-e7d9-6e043a08k062,66k78h04-bak8-5135-ccd3-edf4922bkgfj,false
+10.0.1.7/24,egress,k691g193-h72i-4f0h-f8e0-7f053b09l072,77l89i15-cbl9-5246-ddd4-fee5a33clkgl,true
+10.0.1.8/24,ingress,l701h194-i82g-4g0i-g9f1-8g064c10m082,88m90j26-dcm10-5357-eee5-ggf6b44dmhgm,false
+10.0.1.9/24,egress,m811i195-j92h-4h0j-h0g2-9h075d11n092,99n01k37-ean11-5468-fff6-hhg7c55enghn,true
