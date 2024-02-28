@@ -1,0 +1,11 @@
+remote_ip_prefix,direction,metering_label_id,id,excluded
+192.168.0.1,Inbound,1001,User1,No
+192.168.0.2,Outbound,1002,User2,Yes
+192.168.0.3,Inbound,1003,User3,No
+192.168.0.4,Outbound,1004,User4,Yes
+192.168.0.5,Inbound,1005,User5,No
+192.168.0.6,Outbound,1006,User6,Yes
+192.168.0.7,Inbound,1007,User7,No
+192.168.0.8,Outbound,1008,User8,Yes
+192.168.0.9,Inbound,1009,User9,No
+192.168.0.10,Outbound,1010,User10,Yes

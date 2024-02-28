@@ -1,0 +1,11 @@
+remote_ip_prefix,direction,metering_label_id,id,excluded
+192.2.14.228,inbound,3587390285,1,false
+172.5.130.7,outbound,9125017238,2,true
+164.1.110.11,outbound,7452189361,3,false
+150.3.81.19,inbound,1538906472,4,true
+131.3.170.51,inbound,1627392745,5,true
+193.4.170.28,inbound,4738291620,6,true
+144.5.121.137,outbound,2894612036,7,false
+132.4.30.76,inbound,7394615278,8,true
+157.3.163.127,inbound,9263746521,9,false
+121.6.131.145,inbound,3847561290,10,false
